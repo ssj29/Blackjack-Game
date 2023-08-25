@@ -1,0 +1,10 @@
+﻿  GameFlow.cpp
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(94,21): warning C4018: '<': signed/unsigned mismatch
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+D:\Assignment\Assignment3\Assignment3\GameFlow.cpp(186): warning C4715: 'GameFlow::hand_result': not all control paths return a value
+  Assignment3.vcxproj -> D:\Assignment\Assignment3\Debug\Assignment3.exe
